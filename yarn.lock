@@ -7370,10 +7370,10 @@ tfunk@^3.0.1:
     chalk "^1.1.1"
     object-path "^0.9.0"
 
-three@^0.111.0:
-  version "0.111.0"
-  resolved "https://registry.yarnpkg.com/three/-/three-0.111.0.tgz#9cedb73e79b7f6bf2440cb67a273f883faa923b6"
-  integrity sha512-AcTqyGJ3H75AIusOuADy0LsP958QKQwm/YhABHFMzd6RFXPNVay1rlSbbG6WYv7KM72G2THMMwqbjQd4dVHMkQ==
+three@^0.120.0:
+  version "0.120.0"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.120.0.tgz#238ab7a9e5d92af6bab3d257ea2b1891c90aef63"
+  integrity sha512-Swffpi3EAHWkmqC1MagKEzR5XgwkDiyeWI3M7vkGbBc0xhq2LcQmJj5DqBruLkrgcZQ+fM/+fSQBU1tDvggO4A==
 
 throat@^4.0.0:
   version "4.1.0"
